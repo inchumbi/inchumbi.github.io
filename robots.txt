@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inchumbi.github.io/sitemap.html.gz
+Sitemap: https://inchumbi.github.io/app/sitemap.html.gz
+Sitemap: https://inchumbi.github.io/assets/sitemap.html.gz
+Sitemap: https://inchumbi.github.io/css/sitemap.html.gz
+Sitemap: https://inchumbi.github.io/includes/sitemap.html.gz
+Sitemap: https://inchumbi.github.io/item/sitemap.html.gz
+Sitemap: https://inchumbi.github.io/src/sitemap.html.gz
